@@ -1,0 +1,10 @@
+body {
+  background-color: wheat;
+}
+
+.js-clock {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
