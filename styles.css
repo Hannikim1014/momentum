@@ -8,3 +8,12 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
