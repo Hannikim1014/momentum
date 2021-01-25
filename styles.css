@@ -24,3 +24,6 @@
   z-index: -1;
   animation: fadeIn 0.5s linear;
 }
+body {
+  background-color: #130f40;
+}
